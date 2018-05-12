@@ -1,0 +1,33 @@
+_repo: My-Lady-Rotha--A-Romance_38985
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Weyman, Stanley John
+    alias: Weyman, Stanley J. (Stanley John)
+    birthdate: 1855
+    deathdate: 1928
+    gutenberg_agent_id: '742'
+    url: http://www.gutenberg.org/2009/agents/742
+    wikipedia: http://en.wikipedia.org/wiki/Stanley_J._Weyman
+description: Acclaimed British author Stanley Weyman rose to acclaim with a series
+  of richly detailed romance novels and well-researched forays into historical fiction.
+  My Lady Rotha combines both of these themes, weaving a heartwarming love story against
+  a backdrop of political and social change. Historical romance fans will not be disappointed.
+gutenberg_issued: '2012-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38985'
+  lccn: 08034337
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Historical fiction'
+- !lcsh 'Thirty Years'' War, 1618-1648 -- Fiction'
+title: 'My Lady Rotha: A Romance'
+url: http://www.gutenberg.org/ebooks/38985
